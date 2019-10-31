@@ -6,7 +6,7 @@ Instituto de Computação</br>
 #Trabalho Prático AB2
 
 Disciplina: Introdução à Computação</br>
-Semestre letivo: 2015.1</br>
+Semestre letivo: 2019.1</br>
 Professor: André Lage Freitas</br>
 
 ## Objetivo
